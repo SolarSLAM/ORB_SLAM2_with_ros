@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ly/catkin_exam/src/ORBSLAM2_with_pointcloud_map/ORB_SLAM2_modified/Examples/ROS/ORB_SLAM2/build/devel/setup.sh
